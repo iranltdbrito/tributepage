@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: yellow;
+    margin: 20%;
+}
+
+#title {
+    text-shadow: 5px 5px 10px;
+    font-size: 7vh;
+}
+
+img {
+    
+    display: inline-block;
+    width: 50%;
+}
+
+#caption {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px
+    ;
+}
+
+#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+.title-nikola {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 1opx black;
+}
+
+.text-link {
+    text-decoration: none;
+    color: black;
+}
